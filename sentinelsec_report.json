@@ -1,0 +1,13 @@
+{
+    "target_url": "https://stackoverflow.com/",
+    "traffic_issues": [
+        "[!] Found sensitive data in plain-text HTTP request"
+    ],
+    "storage_issues": [
+        "[!] Found token stored in localStorage without encryption"
+    ],
+    "tls_issues": [
+        "[!] TLS check failed: [Errno -2] Name or service not known"
+    ],
+    "crypto_issues": []
+}
